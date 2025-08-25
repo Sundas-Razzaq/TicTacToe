@@ -46,7 +46,3 @@ No installation required. All you need is a modern web browser (Chrome, Firefox,
 ## Credits
 
 - Developed by Sundas Razzaq
-
-## License
-
-This project is licensed under the MIT License.
